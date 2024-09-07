@@ -1,0 +1,40 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body{
+  background-color: white;
+
+}
+.welcomeBox{
+/* width: 800px;
+height: 750px;
+background-color: white; */
+
+}
+.welcome{
+/* width: 800px;
+padding-left: 100px;
+padding-top: 80px;
+text-decoration: underline; */
+}
+.login{
+  /* background-color: rgb(189, 189, 189);
+  width: 800px;
+  height: 750px;
+  padding-top: 100px; */
+}
+.tablediv{
+  /* background-color: #F5F5F5;
+  padding: 30px 20px;
+  height: 100%;
+  width: 165vh; */
+}
+
+
+#root {
+  display: flex;
+  flex-direction: column;
+}
+
